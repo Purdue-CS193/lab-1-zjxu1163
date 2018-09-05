@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+# Zijun Xu's First CS193 Lab
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -38,6 +38,6 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 El Psy Congroo
 El Psy Congroo
-#Zijun Xu's First CS193 Lab
+
 All intructors are undergraduate students.
 TAs are very friendly and patient.
