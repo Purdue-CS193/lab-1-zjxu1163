@@ -38,3 +38,6 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 El Psy Congroo
 El Psy Congroo
+#Zijun Xu's First CS193 Lab
+All intructors are undergraduate students.
+TAs are very friendly and patient.
